@@ -1,7 +1,3 @@
 * README
 ** All the files in this journal are AES Encrypted.
-<<<<<<< HEAD
 + =HINT= *How was your day, Kitty? Did you Enjoy?* 
-=======
-+ =HINT= *How was your day, Kitty? Did you Enjoy?* 
->>>>>>> effec824d4f52e2e3ebe521c19930ae8b3253740
